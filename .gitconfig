@@ -55,5 +55,11 @@
 	autocorrect = 1
 
 # push easily. http://stackoverflow.com/a/23918418/89484
+
 [push]
 	default = current
+[user]
+	name = lenville
+	email = lenville@gmail.com
+[core]
+	excludesfile = /Users/lenville/.gitignore_global
