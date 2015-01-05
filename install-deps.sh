@@ -35,4 +35,4 @@ chmod +x ~/code/z/z.sh
 
 
 # commonly used npm deps
-sudo npm install -g yo gulp grunt-cli jshint browserify generator-webapp generator-gulp-webapp
+npm install -g yo gulp grunt-cli jshint browserify generator-webapp generator-gulp-webapp
