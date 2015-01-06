@@ -13,12 +13,18 @@ TrailingSpaces
 SublimeCodeIntel
 BracketHighlighter
 HTML5
+Gist
 
 <!-- https://packagecontrol.io/packages/DocBlockr -->
 <!-- http://qianduanblog.com/post/sublime-text-3-plugin-docblockr-javascript-comments-specification.html -->
 DocBlockr
+<!-- http://www.cnblogs.com/owenChen/archive/2012/12/28/2837450.html -->
+<!-- 简直太爽了 -->
 Git
 GitGutter
+
+
+P
 IMESupport			必装啊 !!! 神器
 Emmet Css Snippets
 
