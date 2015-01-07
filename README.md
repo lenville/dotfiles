@@ -17,3 +17,6 @@ if you are interested in installing or updating nave/homebrew/z and (yo gulp gru
 ```shell
 bash install-deps.sh
 ```
+
+
+Some Sublime-text configurations and a plugin list are in the folder named 'Sublime Text Files'.
