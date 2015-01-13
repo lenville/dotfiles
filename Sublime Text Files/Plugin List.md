@@ -34,6 +34,14 @@ Autoprefixer		CSS3属性后 Tab
 Alignment			ctrl + alt + a
 HTML-CSS-JS Prettify ctrl + shift + h
 [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) 也是小神器
+ - 安装后增加 user preference
+ - ```Javascript
+   {
+       "argb": true,
+       "icons_all": true,
+       "ha_style": "Filled"
+   }
+   ```
 
 
 
