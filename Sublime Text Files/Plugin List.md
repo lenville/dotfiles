@@ -33,7 +33,7 @@ CSScomb				ctrl + shift + c
 Autoprefixer		CSS3属性后 Tab
 Alignment			ctrl + alt + a
 HTML-CSS-JS Prettify ctrl + shift + h
-
+[Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) 也是小神器
 
 
 
